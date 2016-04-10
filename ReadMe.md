@@ -8,7 +8,7 @@ Feel free to take a look at my approach!
 
 ### Compiling
 
-I added the *main.cpp* file for both of the programs so you can compile it using any ide you want. Alternatively you can compile in your terminal of choise:
+I added the *main.cpp* file for both of the programs so you can compile it using any *IDE* you want. Alternatively you can compile in your terminal of choice:
 
 ```sh
 $ gcc main.cpp -lstdc++
