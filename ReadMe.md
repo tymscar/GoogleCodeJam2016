@@ -12,5 +12,7 @@ I added the *main.cpp* file for both of the programs so you can compile it using
 
 ```sh
 $ gcc main.cpp -lstdc++
+OR
+$ g++ main.cpp
 ```
 Then read the a.out file.
